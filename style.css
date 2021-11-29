@@ -1,7 +1,7 @@
 * {
     font-family: Helvetica;
 }
-header {
+header h1{
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
     font-size: 100px;
     font-weight: bold;
